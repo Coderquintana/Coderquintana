@@ -72,7 +72,7 @@ I have also gained knowledge in **Python-Flask**, **jQuery**, **Android Studio**
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/francisco-quintana">
+<a href="https://www.linkedin.com/in/francisco-javier-quintana-gamarra">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:coderquintana@gmail.com">
